@@ -8,8 +8,8 @@ Track-My-Fitness is a fitness tracking application that connects to a MongoDB da
 
 https://uwa-track-my-fitness.herokuapp.com/?id=62f9dd2654e1154a3421214c
 
-![](public/assets/ftdashboard.png)
 ![](public/assets/ftmainpage.png)
+![](public/assets/ftdashboard.png)
 
 ## Questions
 
