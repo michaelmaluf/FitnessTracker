@@ -18,7 +18,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/fitTracker", {
   useNewUrlParser: true,
 });
 
-app.use(favicon(path.join(__dirname, "./public/favicon.ico")));
+// app.use(favicon(path.join(__dirname, "./public/favicon.ico")));
 
 app.use(router);
 
