@@ -15,7 +15,4 @@ https://uwa-track-my-fitness.herokuapp.com/?id=62f9dd2654e1154a3421214c
 
 ---
 
-For any questions and support please contact Tristan Fontanini.
 
-- Email: mousy93@hotmail.com
-- Github: [Tristan Fontanini](https://github.com/Twistedmouse)
